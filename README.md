@@ -1,4 +1,4 @@
-# 🌐 Personal Portfolio Website
+<img width="896" height="624" alt="preview" src="https://github.com/user-attachments/assets/05d8afd2-274b-467e-b286-09a32ef49c64" /># 🌐 Personal Portfolio Website
 
 Hi 👋, I'm Naveen Sharma  
 An MCA student passionate about Web Development and Software Development.
@@ -40,7 +40,8 @@ This is my personal portfolio website where I showcase my skills, projects, and 
 ---
 
 ## 📸 Preview
-![Portfolio Preview](preview.png)
+![Portfolio Preview](preview)
+)
 
 ---
 
